@@ -3,3 +3,11 @@ hello from  the laptop!!
 this is the new code
 
 this is another new line
+
+
+
+merge conflict 
+
+currect ->  cur user
+
+incoming -> prev user
