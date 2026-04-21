@@ -11,3 +11,6 @@ merge conflict
 currect ->  cur user
 
 incoming -> prev user
+
+
+this is a new line
