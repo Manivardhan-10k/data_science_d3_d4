@@ -26,3 +26,13 @@ this is a new line
 
 
 code - add - commit - push - repo 
+
+
+
+
+branching 
+
+master /main /root
+
+
+hello from sample  branch
